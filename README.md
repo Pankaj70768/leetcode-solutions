@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pankaj70768/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0118-pascals-triangle](https://github.com/Pankaj70768/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -12,6 +13,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Pankaj70768/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj70768/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
